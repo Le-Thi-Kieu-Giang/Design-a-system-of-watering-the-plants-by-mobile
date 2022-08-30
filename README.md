@@ -12,3 +12,6 @@
 * Power 5V
 * Mini micro submersible water pump DC 3-5V
 * Module Relay 5V
+## Result
+![20220820_124451000_iOS](https://user-images.githubusercontent.com/104005551/187401526-28d63c81-0352-4dcf-aba1-71651df72f20.png)
+![20220820_123631844_iOS](https://user-images.githubusercontent.com/104005551/187401706-b8496cc2-72e1-4b1d-aa3e-d3cd808a64d6.png)
